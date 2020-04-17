@@ -10,7 +10,7 @@ image: /img/hello_world.jpeg
 **前言**
     Sticky Footer是css的一种布局场景。页脚footer永远固定在页面的底部，页面内容不够长的时候页脚黏在视窗底部，内容足够长时会被向下移动。老式门户网站由于内容过短常常版权页脚前移，移动端特定布局也需要Sticky Footer来解决这些问题。
 
-    ![alt 属性文本](/img/20-03-31/640-10.png)
+![](/img/20-04-10/a.gif)
 
 ### 1.利用绝对定位和padding完美兼容
 
