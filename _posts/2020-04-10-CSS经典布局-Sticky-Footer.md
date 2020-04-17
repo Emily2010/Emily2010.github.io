@@ -464,7 +464,7 @@ p{
 |移动端建议|①②⑥|
 
 
-完整代码
+完整代码 https://github.com/Emily2010/CSS-layout
 来自：https://segmentfault.com/a/1190000018961782
 	
 	
